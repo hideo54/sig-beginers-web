@@ -6,3 +6,4 @@ TSG初心者分科会 Web編のためのサンプルリポジトリです。
 
 * hideo54
 * platypus
+* settyan117
