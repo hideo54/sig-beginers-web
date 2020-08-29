@@ -8,3 +8,4 @@ TSG初心者分科会 Web編のためのサンプルリポジトリです。
 * platypus
 * settyan117
 * igaryo0506
+* moonrabit
