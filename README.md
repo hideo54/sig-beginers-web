@@ -9,3 +9,4 @@ TSG初心者分科会 Web編のためのサンプルリポジトリです。
 * settyan117
 * igaryo0506
 * moonrabit
+* hakatashi
