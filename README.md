@@ -10,3 +10,4 @@ TSG初心者分科会 Web編のためのサンプルリポジトリです。
 * igaryo0506
 * moonrabit
 * hakatashi
+* 昆布
