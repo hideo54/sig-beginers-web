@@ -11,4 +11,4 @@ TSG初心者分科会 Web編のためのサンプルリポジトリです。
 * moonrabit
 * hakatashi
 * 昆布
-*ねこ
+* ねこ
